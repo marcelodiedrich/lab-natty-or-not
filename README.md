@@ -1,7 +1,7 @@
 # A origem da moeda "Pila" no Rio Grande do Sul #
 
 ## 📒 Descrição
-Conteúdo para para apresentação acadêmica, em slides, sobre a origem da criação da moeda "pila", seu contexto, evolução e um aprofundamento a outras gírias para moeda no Brasil.
+Conteúdo para apresentação acadêmica, em slides, sobre a origem da criação da moeda "pila", seu contexto, evolução e um aprofundamento a outras gírias para moeda no Brasil.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para descrever o "pila";
